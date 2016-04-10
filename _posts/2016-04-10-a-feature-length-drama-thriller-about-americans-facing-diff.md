@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: 'A feature-length, drama-thriller about Americans facing difficult choices when they discover that political elites are profiting from war at the expense of American lives.'
-datePublished: '2016-04-10T04:39:06.434Z'
-dateModified: '2016-04-10T04:38:42.427Z'
+datePublished: '2016-04-10T04:52:41.746Z'
+dateModified: '2016-04-10T04:52:39.470Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-a-feature-length-drama-thriller-about-americans-facing-diff.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58771e77-65f9-4e42-a00a-ee418da70a8a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7df0ac9c0740787509b8403b72d1a8468b00bd4d.jpg)
 
 A feature-length, drama-thriller about Americans facing difficult choices when they discover that political elites are profiting from war at the expense of American lives.
 
