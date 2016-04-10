@@ -1,6 +1,6 @@
 name: Casualties of the State
 favicon: null
-layout_spectrum: 0.4196092034690082
+layout_spectrum: 1
 typography_spectrum: 0.4964570284355432
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.013418886112049222
-  lightness: 0.9635296755004674
-  saturation: 0.20140128955245018
-  rhythmicContrast: 0.5207239172887057
+    - '#0e0c11'
+    - '#c1c3cf'
+    - '#22252c'
+    - '#7f8690'
+    - '#4b4c51'
+  brandStrength: 0.6875
+  lightness: 0.8125
+  saturation: 0.125
+  rhythmicContrast: 0.75
 purpose: []
