@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "— Rick Ramos\_(Watch This)"
-datePublished: '2016-04-10T05:29:48.698Z'
-dateModified: '2016-04-10T05:29:40.203Z'
+datePublished: '2016-04-10T05:30:57.288Z'
+dateModified: '2016-04-10T05:30:56.644Z'
 title: Critical Praise
 author: []
 authors: []
