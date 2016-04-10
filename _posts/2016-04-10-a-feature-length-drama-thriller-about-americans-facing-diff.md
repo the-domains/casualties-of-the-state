@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'A feature-length, drama-thriller about Americans facing difficult choices when they discover that political elites are profiting from war at the expense of American lives.'
-datePublished: '2016-04-10T04:33:51.177Z'
-dateModified: '2016-04-10T04:33:05.416Z'
+datePublished: '2016-04-10T04:34:23.769Z'
+dateModified: '2016-04-10T04:33:58.822Z'
 title: Casualties of the State
 author: []
 sourcePath: _posts/2016-04-10-a-feature-length-drama-thriller-about-americans-facing-diff.md
