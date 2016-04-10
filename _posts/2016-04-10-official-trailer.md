@@ -6,19 +6,19 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-10T04:48:10.431Z'
-dateModified: '2016-04-10T04:47:14.984Z'
+description: 'https://vimeo.com/40547474'
+datePublished: '2016-04-10T04:52:30.929Z'
+dateModified: '2016-04-10T04:49:21.105Z'
 title: Official Trailer
 author: []
+sourcePath: _posts/2016-04-10-official-trailer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-official-trailer.md
-published: true
 _type: Blurb
 
 ---
