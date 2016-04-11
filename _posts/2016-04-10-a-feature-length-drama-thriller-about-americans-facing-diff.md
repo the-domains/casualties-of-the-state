@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'A feature-length, drama-thriller about Americans facing difficult choices when they discover that political elites are profiting from war at the expense of American lives.'
-datePublished: '2016-04-10T04:52:41.746Z'
-dateModified: '2016-04-10T04:52:39.470Z'
+datePublished: '2016-04-11T03:57:39.221Z'
+dateModified: '2016-04-11T03:57:35.092Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-a-feature-length-drama-thriller-about-americans-facing-diff.md
