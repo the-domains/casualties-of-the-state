@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "— Rick Ramos\_(Watch This)"
-datePublished: '2016-04-10T05:31:30.826Z'
-dateModified: '2016-04-10T05:31:28.521Z'
+datePublished: '2016-04-11T03:56:41.103Z'
+dateModified: '2016-04-11T03:56:29.405Z'
 title: Critical Praise
 author: []
+sourcePath: _posts/2016-04-10-critical-praise.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-10-critical-praise.md
-published: true
 url: critical-praise/index.html
 _type: WebPage
 
